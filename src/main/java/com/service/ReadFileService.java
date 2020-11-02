@@ -1,4 +1,4 @@
-package com.assecor.service;
+package com.service;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Service;
 
-import com.assecor.model.Person;
+import com.model.Person;
 
 @Service
 public class ReadFileService implements IPersonService {

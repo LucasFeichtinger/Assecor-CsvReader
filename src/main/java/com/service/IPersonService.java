@@ -1,8 +1,9 @@
-package com.assecor.service;
+package com.service;
 
 import java.io.IOException;
 import java.util.List;
-import com.assecor.model.Person;
+
+import com.model.Person;
 
 public interface IPersonService {
 	

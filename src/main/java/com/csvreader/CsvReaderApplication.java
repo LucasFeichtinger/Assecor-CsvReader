@@ -1,4 +1,4 @@
-package com.assecor.csvreader;
+package com.csvreader;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

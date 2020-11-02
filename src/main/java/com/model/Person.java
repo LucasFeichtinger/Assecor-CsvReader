@@ -1,4 +1,4 @@
-package com.assecor.model;
+package com.model;
 
 public class Person {
 

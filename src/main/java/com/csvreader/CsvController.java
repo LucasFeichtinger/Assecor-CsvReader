@@ -1,4 +1,4 @@
-package com.assecor.csvreader;
+package com.csvreader;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.assecor.model.Person;
-import com.assecor.service.IPersonService;
+import com.model.Person;
+import com.service.IPersonService;
 
 @RestController
 public class CsvController {
